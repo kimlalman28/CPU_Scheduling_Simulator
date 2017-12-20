@@ -4,5 +4,5 @@ is similar to the Gantt chart style.
 
 CPU Scheduling Algorithms Implemented:
 First Come First Serve
-Shortest Remaining Job First
+Shortest Remaining Time First
 Round Robin
