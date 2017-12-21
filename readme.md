@@ -11,7 +11,6 @@ is similar to the Gantt chart style.
 - Round Robin
 
 Here is the example input:
-
 pid | arrival time | cpu burst
 
 1 0 10
