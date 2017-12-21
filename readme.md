@@ -10,15 +10,15 @@ is similar to the Gantt chart style.
 - Shortest Remaining Time First
 - Round Robin
 
-Here is the example input:
-pid | arrival time | cpu burst
+Here is the example input: <br />
+pid | arrival time | cpu burst <br />
 
-1 0 10
-2 0 9
-3 3 5
-4 7 4
-5 10 6
-6 10 7
+1 0 10 <br />
+2 0 9 <br />
+3 3 5 <br />
+4 7 4 <br />
+5 10 6 <br />
+6 10 7 <br />
 
 The command to launch your program using *First Come First Serve* scheduling:
 
